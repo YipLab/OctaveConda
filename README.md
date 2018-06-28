@@ -1,4 +1,5 @@
-# OctaveConda
+# octavecondadocker
+
 Docker image for DeepSTORM neural networks and corresponding environment.yml (can be used with any other environment.yml - see instruction.txt). See dockerconda folder for Anaconda only docker image.
 
 Octave functions for reading Tiff stacks (converted from MATLAB only functions). Pull the Deep-STORM gitbuh (below) to find other CNN files.
